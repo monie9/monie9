@@ -1,4 +1,3 @@
-# Hi there 
 <h1 align="center">Hi 👋, I'm Monia Ishimwe</h1>
 <h3 align="center">AI enthusiast and student researcher</h3>
 
